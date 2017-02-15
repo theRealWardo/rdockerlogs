@@ -1,0 +1,3 @@
+package: github.com/therealwardo/rdockerlogs
+import:
+- package: github.com/jeromer/syslogparser

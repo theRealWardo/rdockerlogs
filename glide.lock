@@ -1,0 +1,6 @@
+hash: c3950708f0ca828ab9be64b7e08cb735020b363dd026913c0039b6e622d4fc0b
+updated: 2017-02-15T13:04:20.602384763-08:00
+imports:
+- name: github.com/jeromer/syslogparser
+  version: 0e4ae46ea3f08de351074b643d649d5d00661a3c
+testImports: []
