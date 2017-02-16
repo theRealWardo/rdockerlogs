@@ -1,6 +1,6 @@
 # rdockerlogs
 
-A utility for tailing the logs of remote servers that have Docker running with the syslog driver running.
+A utility for tailing the logs of remote servers that have Docker running with the syslog driver sending logs to `/var/log/syslog`. This currently assumes that the syslog driver is configured with `--log-opt tag=docker/{{.ID}}`.
 
 
 ### Usage
